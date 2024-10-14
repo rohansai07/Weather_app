@@ -14,3 +14,5 @@ This project is great for learning how to work with APIs and build interactive w
 ---
 
 Feel free to modify it depending on your app's specific features!
+
+![Screenshot 2024-10-14 150905](https://github.com/user-attachments/assets/932af59f-d6dc-4880-9983-85661ea80b6d)
